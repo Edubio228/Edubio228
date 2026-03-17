@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Edubio.
 
-<!--
-**Edubio228/Edubio228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineer focused on building intelligent systems, automation workflows, and AI-powered tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- AI agents
+- workflow automation systems
+- knowledge assistants
+- document analysis pipelines
+- multi-agent workflows
+
+---
+
+## Tech Stack
+
+Python  
+LLM APIs  
+LangChain / LangGraph  
+Vector Databases  
+API Integrations  
+
+---
+
+## Portfolio
+https://emmanuel-edubio.lovable.app
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/emmanuel-edubio/
