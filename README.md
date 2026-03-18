@@ -1,5 +1,7 @@
 # Hi, I'm Emmanuel Edubio
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=30&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer;Building+AI+Agents;Workflow+Automation+Systems;Knowledge+Assistants;Document+Intelligence+Systems)](https://git.io/typing-svg)
+
 ![AI Systems](https://img.shields.io/badge/AI-Systems%20Engineer-black?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI-Agent%20Systems-purple?style=for-the-badge)
@@ -86,6 +88,7 @@ Systems that coordinate multiple specialized AI agents to perform complex workfl
 
 ---
 
+
 ## Engineering Approach
 
 When designing AI systems I focus on several key principles.
@@ -120,6 +123,14 @@ My portfolio includes detailed breakdowns of:
 • data flow  
 • component interactions  
 • design decisions  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edubio228&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228&layout=compact&theme=github_dark)
 
 ---
 
