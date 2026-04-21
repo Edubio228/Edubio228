@@ -1,66 +1,85 @@
 # Hi, I'm Emmanuel Edubio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=30&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer;Building+AI+Agents;Workflow+Automation+Systems;Knowledge+Assistants;Document+Intelligence+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5\&size=30\&center=true\&vCenter=true\&width=800\&lines=AI+Systems+Engineer;Backend+Engineer+\(Python\);AI+Agents+%26+Automation;RAG+%26+Knowledge+Systems;Production-Ready+AI+Workflows)](https://git.io/typing-svg)
 
 ![AI Systems](https://img.shields.io/badge/AI-Systems%20Engineer-black?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Django%20%7C%20FastAPI-darkblue?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI-Agent%20Systems-purple?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Intelligent%20Workflows-green?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Production%20AI%20Systems-green?style=for-the-badge)
 
-AI Systems Engineer focused on designing and building intelligent systems that automate workflows, process information, and integrate AI into real-world operations.
+AI Systems Engineer and Backend Developer focused on building **production-ready AI systems** that integrate into real workflows, automate processes, and support decision-making.
 
 ---
 
 ## About Me
 
-I design and build **AI-powered systems** that go beyond simple prototypes and function as part of real workflows.
+I design and build **AI-powered systems that move beyond prototypes**; systems that operate as part of real-world products and workflows.
 
-My work focuses on combining multiple components into practical systems that can automate processes, assist decision-making, and interact with existing tools.
+My work sits at the intersection of **AI engineering and backend development**, where I combine intelligent components with robust infrastructure to create reliable, scalable solutions.
 
-These systems often combine:
+I specialize in building systems that:
 
-• AI agents  
-• workflow automation  
-• retrieval systems  
-• structured data extraction  
-• API integrations  
+* automate multi-step workflows
+* extract and structure information from unstructured data
+* integrate with existing tools via APIs
+* support human decision-making with AI assistance
 
-The goal is to build **reliable AI systems that augment real work**.
+### Core System Components I Work With
+
+• AI agents
+• workflow automation pipelines
+• retrieval systems (RAG)
+• structured data extraction
+• API integrations
+• backend services (Django, FastAPI)
+
+The goal is simple: **build dependable AI systems that augment real work. not just demos.**
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![LLM Applications](https://img.shields.io/badge/LLM-Applications-black?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-darkgreen?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-blueviolet?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector%20Database-Embeddings-purple?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-Embeddings-purple?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
 
-**Languages**
+### Languages
 
 Python
 
-**AI & Machine Learning**
+### Backend Engineering
 
-Large Language Model APIs  
-Retrieval-Augmented Generation (RAG)  
-Prompt Engineering  
-Embedding Models  
+Django
+FastAPI
+REST API Design
+Asynchronous Processing
+Database Design & Integration
 
-**Frameworks & Tools**
+### AI & Machine Learning
 
-LangChain  
-LangGraph  
-Vector Databases  
+Large Language Model APIs
+Retrieval-Augmented Generation (RAG)
+Prompt Engineering
+Embedding Models
 
-**System Components**
+### Frameworks & Tools
 
-Workflow Automation  
-API Integrations  
-Data Processing Pipelines  
-Structured Data Extraction  
+LangChain
+LangGraph
+Vector Databases
+
+### System Capabilities
+
+Workflow Automation
+Data Processing Pipelines
+Structured Data Extraction
+Third-Party API Integrations
 
 ---
 
@@ -70,74 +89,83 @@ Structured Data Extraction
 ![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge)
 ![Knowledge Assistants](https://img.shields.io/badge/Knowledge-Assistants-purple?style=for-the-badge)
 ![Document Intelligence](https://img.shields.io/badge/Document-Intelligence-green?style=for-the-badge)
-![Multi Agent Systems](https://img.shields.io/badge/Multi-Agent%20Systems-darkblue?style=for-the-badge)
-
-Examples of systems I design and build include:
+![Multi Agent](https://img.shields.io/badge/Multi-Agent%20Systems-darkblue?style=for-the-badge)
 
 ### AI Lead Intake & Qualification Agents
-AI-driven conversational systems that interact with potential leads, extract structured information, evaluate lead quality, and generate summaries for CRM workflows.
+
+Conversational AI systems that capture leads, extract structured data, qualify prospects, and integrate directly into CRM workflows.
 
 ### AI Knowledge Assistants
-Retrieval-based AI systems that allow teams to interact with internal documentation, knowledge bases, and company resources through natural language queries.
+
+RAG-based systems that enable teams to query internal knowledge bases, documents, and resources using natural language.
 
 ### Document Intelligence Systems
-Automated pipelines that process documents, extract key insights, and convert unstructured data into structured outputs.
 
-### Multi-Agent Workflow Automation
-Systems that coordinate multiple specialized AI agents to perform complex workflows such as research pipelines and task orchestration.
+End-to-end pipelines that process documents, extract key information, and transform unstructured data into structured, usable outputs.
+
+### Multi-Agent Workflow Systems
+
+Coordinated AI agents handling complex workflows such as research pipelines, task orchestration, and multi-step automation.
+
+### AI + Backend Integrated Systems
+
+Full-stack AI systems with **robust backend services**, enabling persistence, scalability, API access, and real-world deployment.
 
 ---
 
-
 ## Engineering Approach
 
-When designing AI systems I focus on several key principles.
+I approach AI system design as an **engineering problem, not just a modeling task**.
 
-**Problem Decomposition**
+### Problem Decomposition
 
-Breaking large workflows into smaller AI tasks that can be handled reliably.
+Break complex workflows into smaller, reliable AI tasks.
 
-**Agent-Oriented Design**
+### Agent-Oriented Design
 
-Structuring systems around specialized agents with clearly defined responsibilities.
+Design systems around specialized agents with clear responsibilities.
 
-**Human-in-the-Loop Oversight**
+### Backend-First Thinking
 
-Ensuring humans can review outputs when needed for accuracy and control.
+Ensure systems are deployable, scalable, and maintainable through solid backend architecture.
 
-**Integration-First Architecture**
+### Human-in-the-Loop
 
-Building AI systems that integrate seamlessly with existing tools and business workflows.
+Introduce checkpoints for validation, improving reliability and trust.
+
+### Integration-First Architecture
+
+Build systems that plug into existing tools, APIs, and business processes.
 
 ---
 
 ## Portfolio
 
-Architecture diagrams and system case studies are available here:
+Architecture diagrams and system case studies:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://emmanuel-edubio.lovable.app/)
 
-My portfolio includes detailed breakdowns of:
+Includes detailed breakdowns of:
 
-• system architecture  
-• data flow  
-• component interactions  
-• design decisions  
+• system architecture
+• data flow
+• component interactions
+• design decisions
 
 ---
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228\&layout=compact\&theme=github_dark)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-edubio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/emmanuel-edubio/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://emmanuel-edubio.lovable.app/)
 
 ---
 
-⭐ Always interested in collaborating on interesting AI systems and automation projects.
+⭐ Open to collaborating on **AI systems, backend-heavy AI products, and workflow automation projects**.
