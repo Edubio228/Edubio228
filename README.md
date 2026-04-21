@@ -128,8 +128,6 @@ My portfolio includes detailed breakdowns of:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edubio228&show_icons=true&theme=github_dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228&layout=compact&theme=github_dark)
 
 ---
