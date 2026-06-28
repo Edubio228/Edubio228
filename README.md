@@ -1,171 +1,159 @@
 # Hi, I'm Emmanuel Edubio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5\&size=30\&center=true\&vCenter=true\&width=800\&lines=AI+Systems+Engineer;Backend+Engineer+\(Python\);AI+Agents+%26+Automation;RAG+%26+Knowledge+Systems;Production-Ready+AI+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=30&center=true&vCenter=true&width=800&lines=MLOps+Engineer;Production+AI+Infrastructure;Backend+%26+System+Design;Kubernetes+%7C+Model+Serving;QwenOps+%7C+Incident+Autopilot)](https://git.io/typing-svg)
 
-![AI Systems](https://img.shields.io/badge/AI-Systems%20Engineer-black?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20Django%20%7C%20FastAPI-darkblue?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI-Agent%20Systems-purple?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Engineer-black?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20Django-darkblue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge)
+![Model Serving](https://img.shields.io/badge/Model-Serving%20%7C%20Triton-purple?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Production%20AI%20Systems-green?style=for-the-badge)
 
-AI Systems Engineer and Backend Developer focused on building **production-ready AI systems** that integrate into real workflows, automate processes, and support decision-making.
+**MLOps Engineer** and **Backend Developer** bridging the gap between AI research and production infrastructure. I build systems that are deployable, scalable, observable, and—most importantly—reliable.
 
 ---
 
 ## About Me
 
-I design and build **AI-powered systems that move beyond prototypes**; systems that operate as part of real-world products and workflows.
+I take AI models from Jupyter notebooks and turn them into **production services that handle real traffic**. With a strong foundation in backend engineering and system design, I focus on the infrastructure that makes AI useful in the real world.
 
-My work sits at the intersection of **AI engineering and backend development**, where I combine intelligent components with robust infrastructure to create reliable, scalable solutions.
+My work centers on:
 
-I specialize in building systems that:
+- **Model Serving & Optimization**: Deploying models with low latency and high throughput (FastAPI, Triton, BentoML)
+- **Orchestration**: Managing containerized workloads on Kubernetes with autoscaling and GPU scheduling
+- **MLOps Pipelines**: CI/CD for models, experiment tracking, and versioned deployments (MLflow, Kubeflow)
+- **Observability**: Structured logging, metrics, and alerting to ensure system health (Prometheus, Grafana)
+- **AI Agent Orchestration**: Building multi-agent systems with human-in-the-loop safety checkpoints (LangGraph)
 
-* automate multi-step workflows
-* extract and structure information from unstructured data
-* integrate with existing tools via APIs
-* support human decision-making with AI assistance
+**Philosophy**: AI systems should be *boring but bulletproof*. They should work predictably, fail gracefully, and integrate seamlessly into existing workflows.
 
-### Core System Components I Work With
+---
 
-• AI agents
-• workflow automation pipelines
-• retrieval systems (RAG)
-• structured data extraction
-• API integrations
-• backend services (Django, FastAPI)
+## Featured Projects
 
-The goal is simple: **build dependable AI systems that augment real work. not just demos.**
+### 🔥 QwenOps: Incident Autopilot
+*(Qwen Global AI Hackathon 2026 - Track 4)*
+
+**Problem**: On-call engineers waste 10+ minutes just gathering context during incidents.
+
+**Solution**: An AI-powered SRE assistant that handles the first 5 minutes of an incident:
+- Fetches Kubernetes logs and metrics in real-time
+- Uses Qwen API to hypothesize root cause in < 3 seconds
+- Generates safe mitigation commands with an `is_destructive` safety flag
+- Drafts post-mortem reports automatically
+
+**Tech Stack**: FastAPI, Qwen API, Kubernetes Python Client, Redis, Docker, Alibaba Cloud ECS
+
+[Live Demo](http://your-deployed-url) | [GitHub](https://github.com/edubio228/qwenops) | [Devpost](https://qwen.devpost.com)
+
+---
+
+### 📊 AI Knowledge Assistant (RAG System)
+*(Production RAG for Internal Documentation)*
+
+**Problem**: Teams spend hours searching wikis, PDFs, and Slack history for answers.
+
+**Solution**: A retrieval-augmented generation system with:
+- Document ingestion and semantic chunking
+- Vector database storage (Pinecone/Chroma)
+- Natural language Q&A with source citations
+- Human feedback loop for continuous quality improvement
+
+**Tech Stack**: FastAPI, LangChain, Qwen API, Vector DB, Redis, Docker, AWS S3
+
+[GitHub](https://github.com/edubio228/rag-knowledge-assistant)
+
+---
+
+### 🤖 Multi-Agent Workflow Orchestrator
+*(Autonomous Research Pipeline)*
+
+**Problem**: Complex tasks require multiple specialized steps (research, extraction, summarization).
+
+**Solution**: A LangGraph-based system with:
+- 3 specialized agents (Researcher, Extractor, Summarizer)
+- Human-in-the-loop checkpoints for validation
+- Persistent state management across sessions
+- Async task queue for long-running jobs (Celery + Redis)
+
+**Tech Stack**: LangGraph, FastAPI, Celery, Redis, PostgreSQL, Docker Compose
+
+[GitHub](https://github.com/edubio228/multi-agent-orchestrator)
 
 ---
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM-Applications-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-darkgreen?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-blueviolet?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20Database-Embeddings-purple?style=for-the-badge)
-![APIs](https://img.shields.io/badge/API-Integration-green?style=for-the-badge)
-
 ### Languages
-
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend Engineering
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Django
-FastAPI
-REST API Design
-Asynchronous Processing
-Database Design & Integration
+### MLOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
-### AI & Machine Learning
+### AI & LLM Frameworks
+![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-Large Language Model APIs
-Retrieval-Augmented Generation (RAG)
-Prompt Engineering
-Embedding Models
-
-### Frameworks & Tools
-
-LangChain
-LangGraph
-Vector Databases
-
-### System Capabilities
-
-Workflow Automation
-Data Processing Pipelines
-Structured Data Extraction
-Third-Party API Integrations
+### Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ---
 
-## Systems I Build
+## Engineering Philosophy
 
-![AI Agents](https://img.shields.io/badge/AI-Agents-black?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge)
-![Knowledge Assistants](https://img.shields.io/badge/Knowledge-Assistants-purple?style=for-the-badge)
-![Document Intelligence](https://img.shields.io/badge/Document-Intelligence-green?style=for-the-badge)
-![Multi Agent](https://img.shields.io/badge/Multi-Agent%20Systems-darkblue?style=for-the-badge)
+### Production-First
+Every system is designed for reliability—not just functionality. I evaluate latency, cost, failure modes, and rollback strategies before writing a single line of code.
 
-### AI Lead Intake & Qualification Agents
+### Infrastructure as Code
+Infrastructure is defined in code (Terraform, Helm, Docker Compose). Manual clicks in cloud consoles are a liability.
 
-Conversational AI systems that capture leads, extract structured data, qualify prospects, and integrate directly into CRM workflows.
+### Observability by Design
+If it can't be monitored, it's not production-ready. Every system exposes metrics, structured logs, and traces.
 
-### AI Knowledge Assistants
+### Safe AI
+AI systems need guardrails. I enforce human approval, destructive-command flags, rate limiting, and graceful fallbacks to prevent unintended harm.
 
-RAG-based systems that enable teams to query internal knowledge bases, documents, and resources using natural language.
-
-### Document Intelligence Systems
-
-End-to-end pipelines that process documents, extract key information, and transform unstructured data into structured, usable outputs.
-
-### Multi-Agent Workflow Systems
-
-Coordinated AI agents handling complex workflows such as research pipelines, task orchestration, and multi-step automation.
-
-### AI + Backend Integrated Systems
-
-Full-stack AI systems with **robust backend services**, enabling persistence, scalability, API access, and real-world deployment.
-
----
-
-## Engineering Approach
-
-I approach AI system design as an **engineering problem, not just a modeling task**.
-
-### Problem Decomposition
-
-Break complex workflows into smaller, reliable AI tasks.
-
-### Agent-Oriented Design
-
-Design systems around specialized agents with clear responsibilities.
-
-### Backend-First Thinking
-
-Ensure systems are deployable, scalable, and maintainable through solid backend architecture.
-
-### Human-in-the-Loop
-
-Introduce checkpoints for validation, improving reliability and trust.
-
-### Integration-First Architecture
-
-Build systems that plug into existing tools, APIs, and business processes.
-
----
-
-## Portfolio
-
-Architecture diagrams and system case studies:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://emmanuel-edubio.lovable.app/)
-
-Includes detailed breakdowns of:
-
-• system architecture
-• data flow
-• component interactions
-• design decisions
+### Cost Awareness
+AI should be intelligent *and* economical. I optimize token usage, use cheaper models for simple tasks, and cache aggressively.
 
 ---
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edubio228&layout=compact&theme=github_dark)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/emmanuel-edubio/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-edubio/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge)](https://emmanuel-edubio.lovable.app/)
+[![QwenOps](https://img.shields.io/badge/QwenOps-Hackathon%20Project-orange?style=for-the-badge)](https://github.com/edubio228/qwenops)
 
 ---
 
-⭐ Open to collaborating on **AI systems, backend-heavy AI products, and workflow automation projects**.
+## 📌 Open to Opportunities
+
+I'm actively seeking **MLOps Engineer**, **AI Platform Engineer**, and **Production AI Systems** roles where I can build the infrastructure that makes AI reliable, scalable, and impactful.
+
+If you're building AI infrastructure or need someone to take models from notebooks to production, let's talk.
+
+---
+
+⭐ *Built with ❤️ for production-grade AI.*
