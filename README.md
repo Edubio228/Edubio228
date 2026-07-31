@@ -30,6 +30,41 @@ My work centers on:
 
 ## Featured Projects
 
+### Production Feature Store
+
+A production-inspired Feature Store demonstrating modern MLOps architecture.
+
+**Highlights**
+
+- Centralized feature definitions using Feast
+- Real-time feature computation with Kafka
+- Online feature serving with Redis
+- FastAPI inference APIs
+- Dockerized microservice architecture
+- Eliminates training-serving skew
+
+**Tech**
+
+`Python` `Feast` `Kafka` `Redis` `FastAPI` `Docker`
+
+---
+
+### 🏛 Atlas Feature Platform
+
+A platform for building, deploying, and operating production machine learning systems.
+
+Production-inspired feature store built with **Feast, Kafka, Redis, FastAPI, and Docker Compose**.
+Centralizes feature definitions to eliminate training-serving skew, streams feature computation in
+real time, and exposes low-latency inference APIs.
+
+Focused on making ML infrastructure easier to build, deploy, monitor, and scale.
+
+[GitHub](https://github.com/Edubio228/atlas-feature-platform)
+
+---
+
+###  
+
 ### 🔥 QwenOps: Incident Autopilot
 *(Qwen Global AI Hackathon 2026 - Track 4)*
 
@@ -43,7 +78,7 @@ My work centers on:
 
 **Tech Stack**: FastAPI, Qwen API, Kubernetes Python Client, Redis, Docker, Alibaba Cloud ECS
 
-[Live Demo](http://your-deployed-url) | [GitHub](https://github.com/edubio228/qwenops) | [Devpost](https://qwen.devpost.com)
+| [GitHub](https://github.com/edubio228/qwenops) | [Devpost](https://qwen.devpost.com)
 
 ---
 
@@ -58,7 +93,7 @@ My work centers on:
 - Natural language Q&A with source citations
 - Human feedback loop for continuous quality improvement
 
-**Tech Stack**: FastAPI, LangChain, Qwen API, Vector DB, Redis, Docker, AWS S3
+**Tech Stack**: FastAPI, LangChain, OpenRouter API, Vector DB, Redis, Docker, AWS S3
 
 [GitHub](https://github.com/edubio228/rag-knowledge-assistant)
 
@@ -80,6 +115,16 @@ My work centers on:
 [GitHub](https://github.com/edubio228/multi-agent-orchestrator)
 
 ---
+
+### AI Automation Systems
+
+A collection of production-ready AI applications including:
+
+- Retrieval-Augmented Generation (RAG)
+- Document Intelligence
+- Workflow Automation
+- LLM Integrations
+- AI Backend APIs
 
 ## Tech Stack
 
@@ -150,7 +195,7 @@ AI should be intelligent *and* economical. I optimize token usage, use cheaper m
 
 ## 📌 Open to Opportunities
 
-I'm actively seeking **MLOps Engineer**, **AI Platform Engineer**, and **Production AI Systems** roles where I can build the infrastructure that makes AI reliable, scalable, and impactful.
+I'm actively seeking **ML Engineer**, **MLOps Engineer**, **AI Platform Engineer**, and **Production AI Systems** roles where I can build the infrastructure that makes AI reliable, scalable, and impactful.
 
 If you're building AI infrastructure or need someone to take models from notebooks to production, let's talk.
 
